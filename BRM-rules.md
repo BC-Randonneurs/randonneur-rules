@@ -1,18 +1,17 @@
 # BC Randonneur rules
 
-For BC Randonneurs brevets and populaires up to 1000 km, the [rules of the Audax Club Parisien](https://www.audax-club-parisien.com/wp-content/uploads/2024/01/Rules-for-rider-2024.pdf) apply, with a few BC-specific differences and clarifications noted with ⚠️ remarks.
-(The English version of the rules is, in some places, clumsily worded, so it may be helpful to refer to the [original French version](https://www.audax-club-parisien.com/wp-content/uploads/2024/01/Reglement-participant-2024.pdf) in case of difficulty.)
+For BC Randonneurs brevets and populaires up to 1000 km, the following rules apply, which are derived from the rules of the Audax Club Parisien ([French](https://www.audax-club-parisien.com/wp-content/uploads/2024/01/Reglement-participant-2024.pdf) /
+[English](https://www.audax-club-parisien.com/wp-content/uploads/2024/01/Rules-for-rider-2024.pdf)).
+A few notable BC-specific differences and clarifications noted with ⚠️ remarks.
 
 1.  **Only the Audax Club Parisien has sanctioning worldwide authority for these events.**
-    The ACP registers all brevets.
-    Each brevet receives a verification number.
-    These are assigned chronologically based on time of receipt.
+    The ACP registers each successfully completed brevet with a verification number that is assigned chronologically based on time of receipt.
     The ACP has registered all brevets since their inception in 1921.
 
     ⚠️ Events shorter than 200 km are not sanctioned, registered, or adjudicated by the ACP.
 
     ⚠️ Events longer than 1200 km, other than Paris-Brest-Paris, are sanctioned by [Les Randonneurs Mondiaux](https://www.randonneursmondiaux.org/) and subject to their rules.
-2.  These brevets are open to any amateur cyclist regardless of his or her cycling affiliations and covered by insurance.
+2.  These brevets are open to any insured cyclist regardless of his or her cycling affiliations.
     Nevertheless, restrictions may be imposed locally by the organizer to manage properly the <abbr title="Brevets Randonneurs Mondiaux">BRM</abbr> event (limitation of registrations, invitations, etc.).
     Any rider under the age of <ins>19</ins> must have consent of his or her parent or legal guardian.
 
@@ -46,41 +45,39 @@ For BC Randonneurs brevets and populaires up to 1000 km, the [rules of the Audax
     Riders not complying with all these requirements will not be permitted to start.
 
     Lights must be on from dusk to dawn and at any other times when poor visibility conditions exist (rain, fog, etc.).
-    Each rider, whether riding in a group or by himself, must fully comply with this requirement.
+    Even when riding in a group, **each individual must be properly lit**.
+    At night, riders **must wear reflective clothing**.
 
-    **Everyone must use their lights!**
-    All riders must wear a **reflective cloth** that clearly places reflective material on the front and back of the rider.
-
-    Any violation of these night riding rules will result in the immediate disqualification of the rider.
+    Any violation of these safety measures will result in disqualification of the rider.
 7.  Each rider must be self sufficient.
-    No follow cars or support of any kind are permitted on the course.
+    No follow cars or <ins>exclusive</ins> support are permitted on the course.
     Personal support is only allowed at checkpoints.
-    Any violation of this requirement will result in immediate disqualification.
+    Any violation of this rule will result in disqualification.
 
-    At the start, if the organizer creates groups, as everyone rides at his or her own pace, a rider could go out the group at any time.
+    If the organizer divides participants into starting groups, riders may leave the group since they are free to ride at their own pace.
     No rider can be considered as group leader.
-    All distinctive signs (jersey, armband, etc…)or title (road captain) are not allowed.
+    Distinctive signs (jersey, armband, etc…) or titles (e.g. road captain) are not allowed.
     All riders are required to conduct themselves in a civil manner and abide by all applicable vehicle codes, laws, and regulations.
     All riders are required to respect local customs with regards to decorum.
 
     ⚠️ See [“Understanding the No En-Route Support Rule”](#support) below.
 8.  At <ins>or before</ins> the start, each rider will receive a brevet card and a cue sheet, physical or digital, indicating the route and the location of the checkpoints.
     Riders must stay on the route.
-    If a rider leaves the route, they must return to the route at the same point prior to continuing, ie. no shortcuts or detours from the route, unless specified by the organizer.
+    If a rider leaves the route, they must return to the route at the same point prior to continuing, i.e. no shortcuts or detours from the route, unless specified by the organizer.
     Riders must stop at each checkpoint to have their card validated.
     Organizers may also include unannounced checkpoints along the route.
-    This assures that everyone will stay on the prescribed route.
+    This ensures that everyone will stay on the prescribed route.
 
     The organizer must use the Audax Club Parisien brevet cards or the local brevet cards approved by Audax Club Parisien.
 
     ⚠️ The event organizer will typically e-mail the brevet card to each rider before the event, which the participant should print and bring to the start.
 9.  Organizers may have checkpoints with no member of the organizing staff present.
-    At these checkpoints riders must get their brevet card stamped at a local establishment that the organizer specifies as a checkpoint, such as a grocery store or gas station or validated by digital means.
+    At these checkpoints riders must get their brevet card stamped at a local establishment that the organizer specifies as a checkpoint, such as a grocery store or gas station, or validated by digital means.
     Checkpoint information to be noted on the brevet card includes the time and the date of passage (for brevets that extend beyond 24 hours).
 
     For unmanned checkpoints where no means of getting a stamp is available (arrival in the middle of the night for example), the rider may either
 
-    (1) mail in a postcard with the checkpoint information (time, date, full name of the rider, and the rider's club affiliation) to the brevet organizer; or  
+    (1) mail in a postcard with the checkpoint information (time, date, full name of the rider, and the rider's club affiliation) to the brevet organizer, and on the brevet card write "PC" with the date and time for that checkpoint; or  
     (2) write into their brevet card identifying information from a predetermined landmark or sign at the checkpoint also noting the time and the date of passage, or  
     (3) provide a bank receipt, indicating the full name of the participant, or  
     (4) provide a photo of the participant with decor (road sign, for example) justifying the place, or  
@@ -88,9 +85,9 @@ For BC Randonneurs brevets and populaires up to 1000 km, the [rules of the Audax
     (6) <ins>provide a receipt for a commercial transaction that clearly indicates the time and location, or</ins>  
     (7) <ins>have a witness sign the brevet card.</ins>
 
-    In all cases, the rider should mark his brevet card in the space provided for the checkpoint “PC”, with the time and date.
+    The organizer has the discretion to determine which options are to be allowed for each checkpoint.
 
-    The organizer has the discretion to determine which option is to be allowed for a given checkpoint.
+    In all cases, the time of passage (as well as the date, in the case of multi-day brevets) should be noted.
 
     **Missing proof of passage information or loss of the brevet card** (regardless of how far into the ride a rider is) **will result in disqualification**.
     Each rider is responsible for seeing that his brevet card is properly completed at each checkpoint.
@@ -139,15 +136,17 @@ For BC Randonneurs brevets and populaires up to 1000 km, the [rules of the Audax
     A medal is also available for those holding this title.
     Riders should provide supporting documentation to their brevet organizer, as well as payment.
     The organizer can obtain the medal upon verification of the rider's brevet numbers.
-14. A brevet must be done alone and may not be counted as participation in another event held in conjunction with it.
-15. All animations regarding the BRM in a geographical area, such as classifications, awards, challenges, etc, as well for the riders as for the clubs, are exclusively of the competence of the ACP representative and his association.
-16. Organizers events can be scheduled only on their geographical area on the ACP calendar, whatever the starting point is located.
-    The organizers must obligatorily use the brevet card of their own geographical area.
-    An organizer (in particular a frontier club) will be able to appear second once on the ACP calendar like "organizer connected" in another geographical area, with the agreement of the ACP representative of this geographical area, while having for formal obligation to apply the first subparagraph of this article.
-17. While taking part in a brevet, the riders accept the publication of their identity and the time achieved in the results published by the organizers.
-    Their identity could never be used at commercial purposes or to be transmitted to a third party for this purpose.
+14. A participant may not count any other distance challenge as a brevet, in whole or in part.
+15. All activities associated with BRMs in a geographical area (such as classifications, awards, challenges, etc., for riders as well as for clubs) are exclusively of the competence of the ACP representative and his/her association.
+16. Organizers' events can only be scheduled on the ACP calendar for the geographical area that corresponds to wherever the starting point is located.
+
+    The organizers must use the brevet card of their own geographical area.
+
+    An organizer (in particular a frontier club) may appear a second time on the ACP calendar in another geographical area as an “operational organizer”, with the agreement of the ACP representative of this geographical area, while observing the first subparagraph of this article as a formality.
+17. By taking part in a brevet, riders accept the publication of their identity and the time achieved in the results published by the organizers.
+    Their identity shall not be used for commercial purposes or be transmitted to a third party for this purpose.
 18. Any rider who registers for and starts a brevet agrees by these actions to the following: Any complaint or question concerning a brevet or its organization must be submitted to the organizer in writing, within 48 hours from the finish of the brevet.
-    The organizer will review the complaint and forward it, with a recommendation, to the “Commission des Randonneurs” of Audax Club Parisien for France or to the ACP local ACP person responsible for outside France for a final decision.
+    The organizer will review the complaint and forward it, with a recommendation, to the local ACP person responsible for a final decision.
 
     ⚠️ Complaints related to a non-ACP event should be addressed to the BC Randonneurs club directors.
 19. Any question regarding the final decision will be sent to the Audax Club Parisien board with organizer and ACP representative recommendations.
