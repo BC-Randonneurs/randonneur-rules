@@ -148,7 +148,7 @@ A few notable BC-specific differences and clarifications noted with ⚠️ remar
 18. Any rider who registers for and starts a brevet agrees by these actions to the following: Any complaint or question concerning a brevet or its organization must be submitted to the organizer in writing, within 48 hours from the finish of the brevet.
     The organizer will review the complaint and forward it, with a recommendation, to the local ACP person responsible for a final decision.
 
-    ⚠️ Complaints related to a non-ACP event should be addressed to the BC Randonneurs club directors.
+    ⚠️ Complaints related to a non-ACP event will be handled by the BC Randonneurs club directors.
 19. Any question regarding the final decision will be sent to the Audax Club Parisien board with organizer and ACP representative recommendations.
     The Audax Club Parisien board will be the final arbiter of any complaints or questions that arise which may not be covered explicitly in these rules.
 
@@ -163,6 +163,8 @@ The rules for dealing with a major mechanical problem between controls, like a c
 If a rider can obtain a bike or wheel out on the course, including from a helpful stranger, a passing motorist or ride official, the rider can legitimately continue the ride.
 A rider can not call or in some other way arrange to have a new bike or bike part delivered anywhere other than to a control.
 To be clear, it is not the use of a cell phone, or other device, that is the problem, it is the use of these means to arrange assistance that happens out on the course.
+
+Between controls, a rider should not stay at private accommodations, such as their own home, a friend's home, or a car, that are not commercially available to all participants.
 
 A participant in a randonneur event cannot ride in the slipstream of someone who has planned to be on the route for the purpose of pacing the participant.
 A participant can, however, ride side by side or in front of a non-registered friend or companion rider for a reasonable, limited time during an event.
@@ -223,7 +225,7 @@ Officially there are no alternate-day brevets in the sport of randonneur cycling
 
 **A brevet is a ride starting at a designated time and place, on a designated day, following a designated route.**
 
-There, however, an exception to this rule in BC: the volunteer pre-ride.
+There is, however, an exception to this rule in BC: the volunteer pre-ride.
 This ride, usually one week before the official ride, allows a brevet organizer and other ride-day volunteers to preview the route: check the accuracy of the route sheet, discover road changes and closures as well as hazards and construction.
 The organizing team will also be given credit for the brevet.
 Only the ride organizer and ride-day volunteers are permitted to join the pre-ride.
