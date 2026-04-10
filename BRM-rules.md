@@ -2,10 +2,10 @@
 
 For BC Randonneurs brevets and populaires up to 1000 km, the following rules apply, which are derived from the rules of the Audax Club Parisien ([French](https://www.audax-club-parisien.com/wp-content/uploads/2024/01/Reglement-participant-2024.pdf) /
 [English](https://www.audax-club-parisien.com/wp-content/uploads/2024/01/Rules-for-rider-2024.pdf)).
-A few notable BC-specific differences and clarifications noted with ⚠️ remarks.
+A few notable BC-specific differences and clarifications are noted with ⚠️ remarks.
 
-1.  **Only the Audax Club Parisien has sanctioning worldwide authority for these events.**
-    The ACP registers each successfully completed brevet with a verification number that is assigned chronologically based on time of receipt.
+1.  **Only the Audax Club Parisien has sanctioning authority worldwide for these events.**
+    The ACP registers each successfully completed brevet with a verification number that is assigned chronologically based on the time of receipt.
     The ACP has registered all brevets since their inception in 1921.
 
     ⚠️ Events shorter than 200 km are not sanctioned, registered, or adjudicated by the ACP.
